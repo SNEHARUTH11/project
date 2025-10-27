@@ -1,0 +1,8 @@
+flask
+flask-socketio
+eventlet
+face_recognition
+opencv-python
+pyserial
+flask-cors
+
